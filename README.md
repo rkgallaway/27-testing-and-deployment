@@ -1,17 +1,22 @@
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
+![CF](http://i.imgur.com/7v5ASc8.png) LAB 27
 =================================================
 
-## Project Name
+## Lab 27: Testing and Deployment
 
-### Author: Student/Group Name
+### Author: Ryan Gallaway
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
 
-### Modules
+[![Build Status](https://www.travis-ci.com/rkgallaway/27-testing-and-deployment.svg?branch=master)](https://www.travis-ci.com/rkgallaway/27-testing-and-deployment)
+
+* [repo -original](https://github.com/rkgallaway/27-testing-deployment)
+* [repo -correctly forked](https://github.com/rkgallaway/27-testing-and-deployment) 
+* [travis](https://www.travis-ci.com/rkgallaway/27-testing-and-deployment)
+* [latest fork of sandbox](https://codesandbox.io/s/pk48549o2x)
+* [aws -S3 deployment]()
+* [aws auto-deploy]()
+
+<!-- ### Modules
 #### `modulename.js`
 ##### Exported Values and Methods
 
@@ -31,12 +36,13 @@ Usage Notes or examples
 * Endpoint: `/foo/bar/`
   * Returns a JSON object with abc in it.
 * Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+  * Returns a JSON object with xyz in it. -->
 
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* `npm test` to run tests
+* Counts up, counts down
+* Displays proper polarity
+* Snapshot compares / renders correctly 
 
-#### UML
-Link to an image of the UML for your application and response to events
+#### UML Diagram
+![UML]('./assets/uml.jpg')
