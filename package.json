@@ -25,16 +25,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rkgallaway/27-testing-deployment.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rkgallaway/27-testing-deployment/issues"
-  },
-  "homepage": "https://github.com/rkgallaway/27-testing-deployment#readme",
   "browserslist": [
     ">0.2%",
     "not dead",
