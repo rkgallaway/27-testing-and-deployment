@@ -17,7 +17,7 @@
 * [aws auto-deploy]()
 
 <!-- ### Modules
-#### `modulename.js`
+#### `modulename.js`....
 ##### Exported Values and Methods
 
 ###### `foo(thing) -> string`
