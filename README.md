@@ -13,7 +13,7 @@
 * [repo -correctly forked](https://github.com/rkgallaway/27-testing-and-deployment) 
 * [travis](https://www.travis-ci.com/rkgallaway/27-testing-and-deployment)
 * [latest fork of sandbox](https://codesandbox.io/s/pk48549o2x)
-* [aws -S3 deployment]()
+* [aws -S3 deployment](http://lab27a-s3.s3-website-us-west-2.amazonaws.com/)
 * [aws auto-deploy]()
 
 <!-- ### Modules
